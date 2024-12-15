@@ -24,6 +24,7 @@ button {
   border: none;
   border-radius: 7px;
   padding: 10px 15px;
+  cursor: pointer;
 }
 
 h1 {

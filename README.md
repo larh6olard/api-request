@@ -1,0 +1,1 @@
+Built a fetch api request to get names, eye color and skin color of random star wars characters using javascript DOM.
