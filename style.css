@@ -1,0 +1,31 @@
+.container {
+text-align: center;
+background-color: dodgerblue;
+padding: 30px;
+margin: 50px;
+border-radius: 7px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.item {
+  padding: 20px;
+  color: white;
+  font-size: larger;
+  
+}
+
+h3 {
+  background-color: #ddd;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+button {
+  border: none;
+  border-radius: 7px;
+  padding: 10px 15px;
+}
+
+h1 {
+  text-align: center;
+}
